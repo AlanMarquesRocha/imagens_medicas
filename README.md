@@ -1,4 +1,4 @@
-# 🚀 Projeto de classificação de imagens médicas 🩺
+# 🚀 Projeto de classificação para diagnóstico de Pneumonia em imagens de raio-x 🩺
 
 Este repositório une _Deep Learning_ (DL) e Inteligência Artificial (IA) generativa para diagnóstico de **pneumonia em imagens de raios‑X**. Aqui você encontrará um pipeline completo, desde o download do _dataset_ até a geração de relatórios inteligentes por LLM.
 
